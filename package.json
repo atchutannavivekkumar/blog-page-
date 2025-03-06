@@ -1,10 +1,11 @@
 {
-  "name": "npm",
+  "name": "blogging-site",
   "version": "1.0.0",
-  "main": "server.js",
-  "scripts": {
-    "start": "nodemon server.js"
-  },
+  "main": "index.js",
+  
+"scripts": {
+  "start":"nodemon server.js"
+},
   "author": "",
   "license": "ISC",
   "description": "",
